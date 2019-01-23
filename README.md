@@ -1,6 +1,9 @@
 # Excel-Crashkurs
 Links für den Excel-Crashkurs.
 
+Kurs-Handout:
+
+
 Beispieldaten Börsenkurse:
 Daten runterladen: https://www.six-group.com/exchanges/shares/security_info_de.html?id=CH0038863350CHF4
 
