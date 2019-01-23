@@ -2,7 +2,7 @@
 Links für den Excel-Crashkurs.
 
 Kurs-Handout:
-
+https://github.com/michaelheim/excel/blob/master/20190123%20Crashkurs%20Excel%20V1.docx 
 
 Beispieldaten Börsenkurse:
 Daten runterladen: https://www.six-group.com/exchanges/shares/security_info_de.html?id=CH0038863350CHF4
